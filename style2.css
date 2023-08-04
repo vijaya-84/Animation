@@ -1,0 +1,115 @@
+img{
+    border-radius: 50%;
+    width: 110px;
+   
+}
+h1{
+    text-align: center;
+    margin-top: 4%;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img1{
+    margin-left: 29%;
+    margin-top: 3%;
+}
+.img2{
+    margin-left: 29%;
+}
+.img3{
+    margin-left: 29%;
+}
+.img4{
+    margin-left: 29%;
+}
+.img5{
+    margin-left: 29%;
+}
+.img6{
+    margin-left: 29%;
+}
+.img7{
+    margin-top: -3%;
+    margin-left: 49%;
+  
+}
+/* .p1{
+    margin-left: 10%;
+    /* margin-bottom: 10%;*/
+/* } 
+.p2{
+    margin-left: 10%;
+}
+.p3{
+    margin-left: 10%;
+}
+.p4{
+    margin-left: 10%;
+}
+.p5{
+    margin-left: 10%;
+}
+.p6{
+    margin-left: 10%;
+}
+.p7{
+    margin-left: 10%;
+} */ 
+.button {
+    border-radius: 4px;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+  
+    text-align: center;
+    /* font-family: 'Abril Fatface';
+font-family: 'Edu SA Beginner';
+font-family: 'REM', sans-serif;
+font-family: 'Roboto', sans-serif; */
+    font-size: 18px;
+    padding: 5px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-left: 40%;
+    margin-top: -15px;
+   
+    /* margin-left: 1240px; */
+    
+  }
+ 
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  a{
+    color: #FFFFFF;
+  }
+  p{
+    margin-left: 70%;
+   
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
