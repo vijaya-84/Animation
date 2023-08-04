@@ -3,6 +3,9 @@ img{
     width: 110px;
    
 }
+img:hover{
+     transform: scale(1.2,1.2);
+}
 h1{
     text-align: center;
     margin-top: 4%;
